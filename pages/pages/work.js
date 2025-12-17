@@ -17,13 +17,15 @@ export default function Work() {
         </nav>
 
         <h1>Our Work</h1>
-        <p>Examples of projects we’ve built.</p>
+        <p>Examples of projects we’ve built:</p>
 
         <ul>
           <li>Business websites</li>
           <li>Dashboards</li>
           <li>Custom software</li>
         </ul>
+
+        <p>Add more projects in the admin dashboard.</p>
       </main>
     </>
   );
