@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  background: #ffffff;
+  color: #111;
+}
+button {
+  padding: 8px 12px;
+  cursor: pointer;
+}
+input {
+  padding: 6px;
+}
